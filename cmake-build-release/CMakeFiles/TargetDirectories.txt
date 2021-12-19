@@ -1,3 +1,0 @@
-D:/Projects/CLion/GrafikaLab5(swiatlo)/cmake-build-release/CMakeFiles/GrafikaLab5_swiatlo_.dir
-D:/Projects/CLion/GrafikaLab5(swiatlo)/cmake-build-release/CMakeFiles/edit_cache.dir
-D:/Projects/CLion/GrafikaLab5(swiatlo)/cmake-build-release/CMakeFiles/rebuild_cache.dir
